@@ -1,0 +1,6 @@
+name: TimberCore
+version: '${project.version}'
+main: me.theboykiss.ovh.timbercore.TimberCore
+api-version: '1.20'
+commands:
+  autofell:
